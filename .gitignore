@@ -1,0 +1,4 @@
+start.bat
+stop.bat
+docker-push.bat
+kubernetes-dashboard.yaml
